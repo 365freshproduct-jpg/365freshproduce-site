@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="180" y1="90" x2="1030" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#183B30"/>
+      <stop offset=".55" stop-color="#091512"/>
+      <stop offset="1" stop-color="#365D4D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 622H1200V900H0V622Z" fill="#09120F"/>
+  <path d="M146 598L340 334L532 598M340 334L532 598M532 598L726 354L918 598M726 354L918 598" stroke="#E7F4EE" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 598H918" stroke="#E7F4EE" stroke-width="6"/>
+  <path d="M340 334V760M438 463V760M532 598V760M629 478V760M726 354V760M822 471V760" stroke="#D9EEE4" stroke-width="3.8"/>
+  <path d="M226 462H833M268 409H792M306 362H752" stroke="#D9EEE4" stroke-opacity=".25" stroke-width="2.4"/>
+  <path d="M980 202c0 72-58 130-130 130" stroke="#CFE6DB" stroke-opacity=".28" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1004 330h84" stroke="#CFE6DB" stroke-opacity=".22" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1004 368h56" stroke="#CFE6DB" stroke-opacity=".16" stroke-width="5" stroke-linecap="round"/>
+  <rect x="68" y="100" width="318" height="112" rx="20" fill="#0E1916" fill-opacity=".62" stroke="#DCEEE5" stroke-opacity=".1"/>
+  <text x="100" y="148" fill="#D6EADF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">MARSEILLE</text>
+  <text x="100" y="180" fill="#F5F8F5" font-family="Arial, sans-serif" font-size="30" font-weight="700">CLIMATE RETROFIT</text>
+  <text x="100" y="202" fill="#9EBBAE" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PROJECT PLACEHOLDER</text>
+</svg>

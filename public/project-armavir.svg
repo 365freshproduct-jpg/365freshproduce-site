@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="150" y1="80" x2="1040" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15362C"/>
+      <stop offset=".58" stop-color="#0A1512"/>
+      <stop offset="1" stop-color="#2D5B4D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 594H1200V900H0V594Z" fill="#09120F"/>
+  <path d="M144 588L384 292L622 588M384 292L622 588M622 588L856 322L1058 588" stroke="#E6F3ED" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 588H1056" stroke="#E6F3ED" stroke-width="6"/>
+  <path d="M384 292V742M502 441V742M622 588V742M741 452V742M856 322V742" stroke="#DDEEE6" stroke-width="4"/>
+  <path d="M230 454H1000M282 389H947M334 325H892" stroke="#DDEEE6" stroke-opacity=".28" stroke-width="2.4"/>
+  <rect x="72" y="108" width="260" height="106" rx="20" fill="#0D1714" fill-opacity=".64" stroke="#DDEEE6" stroke-opacity=".1"/>
+  <text x="104" y="154" fill="#D6EADF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">ARMAVIR</text>
+  <text x="104" y="186" fill="#F5F8F5" font-family="Arial, sans-serif" font-size="30" font-weight="700">TOMATO CAMPUS</text>
+  <text x="104" y="208" fill="#9EBBAE" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PROJECT PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="160" y1="110" x2="1090" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4031"/>
+      <stop offset=".55" stop-color="#0B1713"/>
+      <stop offset="1" stop-color="#395E4E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 632H1200V900H0V632Z" fill="#09120F"/>
+  <path d="M122 600L301 362L482 600M301 362L482 600M482 600L658 318L834 600M658 318L834 600M834 600L1012 390L1080 600" stroke="#E6F3ED" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 600H1084" stroke="#E6F3ED" stroke-width="6"/>
+  <path d="M301 362V758M392 478V758M482 600V758M571 456V758M658 318V758M748 460V758M834 600V758M924 494V758" stroke="#D8ECE1" stroke-width="3.8"/>
+  <path d="M195 474H1004M240 418H956M278 368H914" stroke="#D8ECE1" stroke-opacity=".26" stroke-width="2.4"/>
+  <circle cx="974" cy="188" r="78" fill="#D7ECE1" fill-opacity=".05"/>
+  <rect x="70" y="102" width="274" height="108" rx="20" fill="#0E1916" fill-opacity=".62" stroke="#DCEEE5" stroke-opacity=".1"/>
+  <text x="102" y="149" fill="#D6EADF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">ANKARA</text>
+  <text x="102" y="181" fill="#F5F8F5" font-family="Arial, sans-serif" font-size="30" font-weight="700">PROPAGATION UNIT</text>
+  <text x="102" y="203" fill="#9EBBAE" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PROJECT PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="200" y1="80" x2="1040" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#224E3F"/>
+      <stop offset=".55" stop-color="#0C1814"/>
+      <stop offset="1" stop-color="#4B735E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 612H1200V900H0V612Z" fill="#09120F"/>
+  <path d="M110 590L292 342L476 590M292 342L476 590M476 590L664 294L852 590M664 294L852 590M852 590L1018 378L1094 590" stroke="#E9F4EF" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 590H1090" stroke="#E9F4EF" stroke-width="6"/>
+  <path d="M292 342V750M383 461V750M476 590V750M570 449V750M664 294V750M758 450V750M852 590V750M936 482V750" stroke="#E0F0E8" stroke-width="3.8"/>
+  <path d="M196 455H1013M238 401H970M280 347H927" stroke="#E0F0E8" stroke-opacity=".24" stroke-width="2.4"/>
+  <rect x="68" y="98" width="298" height="112" rx="20" fill="#0E1916" fill-opacity=".62" stroke="#DCEEE5" stroke-opacity=".1"/>
+  <text x="100" y="146" fill="#D6EADF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">ALMERIA</text>
+  <text x="100" y="180" fill="#F5F8F5" font-family="Arial, sans-serif" font-size="30" font-weight="700">FRESH PRODUCE UNIT</text>
+  <text x="100" y="202" fill="#9EBBAE" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PROJECT PLACEHOLDER</text>
+</svg>

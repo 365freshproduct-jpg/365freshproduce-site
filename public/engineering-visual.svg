@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="a" x1="170" y1="110" x2="1035" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123128"/>
+      <stop offset=".55" stop-color="#0A1613"/>
+      <stop offset="1" stop-color="#234A3F"/>
+    </linearGradient>
+    <linearGradient id="b" x1="600" y1="192" x2="600" y2="684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9EEE4" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#9FC0B1" stop-opacity=".06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#a)"/>
+  <path d="M0 650H1200V900H0V650Z" fill="#09120F"/>
+  <path d="M194 588L420 276L648 588M420 276L648 588M648 588L878 248L1100 588" stroke="#E2F1EA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 588H1096" stroke="#E2F1EA" stroke-width="6" stroke-linecap="round"/>
+  <path d="M420 276V770M525 412V770M648 588V770M764 420V770M878 248V770" stroke="#DBEEE4" stroke-opacity=".82" stroke-width="4"/>
+  <path d="M293 450H995M338 386H952M378 332H909" stroke="#DCEEE5" stroke-opacity=".32" stroke-width="2.4"/>
+  <path d="M275 588L472 347H819L1017 588" fill="url(#b)" stroke="#DCEEE5" stroke-opacity=".42" stroke-width="2.8"/>
+  <path d="M120 192H412" stroke="#7FA792" stroke-opacity=".45" stroke-width="2.4"/>
+  <path d="M120 222H332" stroke="#7FA792" stroke-opacity=".28" stroke-width="2.4"/>
+  <path d="M876 144H1080" stroke="#7FA792" stroke-opacity=".3" stroke-width="2.4"/>
+  <circle cx="961" cy="214" r="88" stroke="#DCEEE5" stroke-opacity=".1"/>
+  <circle cx="961" cy="214" r="58" stroke="#DCEEE5" stroke-opacity=".14"/>
+  <path d="M961 126V302M873 214H1049" stroke="#DCEEE5" stroke-opacity=".14"/>
+  <rect x="116" y="124" width="252" height="102" rx="20" fill="#0E1916" fill-opacity=".62" stroke="#DCEEE5" stroke-opacity=".1"/>
+  <text x="148" y="168" fill="#D7ECE1" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">ENGINEERING</text>
+  <text x="148" y="198" fill="#F4F8F4" font-family="Arial, sans-serif" font-size="30" font-weight="700">SYSTEMS</text>
+  <text x="148" y="218" fill="#A5C0B3" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">REPLACE WITH PHOTOGRAPHY</text>
+</svg>

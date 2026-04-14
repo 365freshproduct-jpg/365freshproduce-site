@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1040" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="160" y1="80" x2="1390" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10241E"/>
+      <stop offset=".58" stop-color="#08110F"/>
+      <stop offset="1" stop-color="#21463B"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="800" y1="248" x2="800" y2="796" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7EADF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#89AF9F" stop-opacity=".05"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="800" y1="620" x2="800" y2="1030" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11231D"/>
+      <stop offset="1" stop-color="#09120F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1260 180) rotate(124.695) scale(398.578 549.733)">
+      <stop stop-color="#79AD95" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#79AD95" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="white" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1040" fill="url(#bg)"/>
+  <rect width="1600" height="1040" fill="url(#grid)"/>
+  <rect width="1600" height="1040" fill="url(#glow)"/>
+  <path d="M0 638H1600V1040H0V638Z" fill="url(#ground)"/>
+  <path d="M0 730C197 685 384 666 561 674C736 682 927 736 1097 732C1282 728 1453 664 1600 626V1040H0V730Z" fill="#0A1613"/>
+  <path d="M121 623L413 309L705 623M413 309L705 623M705 623L995 336L1285 623M995 336L1285 623M413 309H995" stroke="#D9EBE2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 623H1278" stroke="#D9EBE2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M190 623V781M299 623V781M408 309V781M518 423V781M625 539V781M760 623V781M871 623V781M981 336V781M1090 436V781M1200 534V781" stroke="#CAE1D5" stroke-opacity=".9" stroke-width="6"/>
+  <path d="M413 309L408 781M512 417L518 781M611 525L625 781M995 336L981 781M1091 435L1090 781M1188 531L1200 781" stroke="#A6C8B9" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M235 498H1177M295 432H1116M355 367H1056" stroke="#D5E9DF" stroke-opacity=".45" stroke-width="3"/>
+  <path d="M413 309L995 336" stroke="#E4F4EC" stroke-opacity=".65" stroke-width="3"/>
+  <path d="M263 623L507 391H902L1144 623" fill="url(#glass)" stroke="#D5E8DF" stroke-opacity=".45" stroke-width="3"/>
+  <path d="M324 623L562 438H848L1085 623" stroke="#D5E8DF" stroke-opacity=".4" stroke-width="3"/>
+  <path d="M374 623L607 479H803L1035 623" stroke="#D5E8DF" stroke-opacity=".3" stroke-width="2.5"/>
+  <path d="M240 803H1240" stroke="#88A998" stroke-opacity=".12" stroke-width="4"/>
+  <path d="M303 854H1312" stroke="#88A998" stroke-opacity=".08" stroke-width="3"/>
+  <circle cx="1302" cy="183" r="86" fill="#D0E6DB" fill-opacity=".06"/>
+  <circle cx="1302" cy="183" r="58" stroke="#D0E6DB" stroke-opacity=".12"/>
+  <path d="M1302 97V269M1216 183H1388" stroke="#D0E6DB" stroke-opacity=".18"/>
+  <rect x="1091" y="132" width="232" height="116" rx="22" fill="#0E1916" fill-opacity=".56" stroke="#D5E8DF" stroke-opacity=".12"/>
+  <text x="1130" y="178" fill="#F4F8F4" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">INDUSTRIAL</text>
+  <text x="1130" y="208" fill="#D0E5DA" fill-opacity=".76" font-family="Arial, sans-serif" font-size="30" font-weight="700">GREENHOUSE</text>
+  <text x="1130" y="232" fill="#9DB8AB" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">PLACEHOLDER VISUAL</text>
+</svg>
